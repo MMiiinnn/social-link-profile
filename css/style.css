@@ -50,3 +50,8 @@ body {
   border-radius: 10px;
   padding: 10px 0;
 }
+
+.link-item:hover {
+  background-color: yellowgreen;
+  color: black;
+}
